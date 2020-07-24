@@ -1,17 +1,15 @@
 # Snake Game in p5.js 
 
-# [Play the game!](https://samyakbambole.github.io/Snake-Game-in-p5.js/)
+# Play the game!
+### [Vercel Deployment]()
+### [GitHub Deployment]()
 
-# Branches - 
-* master
-* poison-fruit
-* gh-pages  
+# How to play - 
+* Use the W, A, S, D keys to control the snake. 
+* Eat the Red apples to grow the snake. 
 
-# Branch Details 
+# Cheats! 
+* press G for adding new bits to the snake. 
+* press R for a interesting glitch in the game. 
 
-* master - 
-	* The Default branch!
-* poison-fruit - 
-	* This branch will have the codes of the poison fruit while its in development! Will be merged to master when the poison fruit is working. 
-* gh-pages - 
-	* Hosting with GitHub!
+# This game was inspired by [The Coding Train](https://youtube.com/user/shiffman)
