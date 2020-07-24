@@ -1,8 +1,8 @@
 # Snake Game in p5.js 
 
 # Play the game!
-### [Vercel Deployment]()
-### [GitHub Deployment]()
+### [Vercel Deployment](https://snakegamep5.vercel.app)
+### [GitHub Deployment](https://samyakbambole.github.io/Snake-Game-in-p5.js/)
 
 # How to play - 
 * Use the W, A, S, D keys to control the snake. 
